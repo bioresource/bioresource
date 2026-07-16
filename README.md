@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bioresource Process Control Engineering
 
-<!--
-**bioresource/bioresource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the Bioresource Process Control Engineering Research Group.
 
-Here are some ideas to get you started:
+Our research focuses on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Near-infrared spectroscopy
+- Hyperspectral imaging
+- Machine learning
+- Process modelling and control
+- Agricultural and food engineering
+
+## Website
+
+Visit our website:
+
+https://bioresource.github.io/
